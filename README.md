@@ -2,7 +2,7 @@
 - 👀 I’m interested in React/Python
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: plz make issue here
+- 📫 How to reach me: plz contact in discord "nomalscarecrow"
 
 <!---
 HideakiShirozu/HideakiShirozu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
