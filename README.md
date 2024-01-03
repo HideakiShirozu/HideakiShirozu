@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HideakiShirozu
 - 👀 I’m interested in React/Nextjs
-- 🌱 I’m currently learning 🍇Priact
+- 🌱 I’m currently learning 🍇Preact
 - 👍 I'm good @ Frontend (React,Next,JS,CSS,HTML)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: plz contact in discord "nomalscarecrow"
