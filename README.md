@@ -4,7 +4,7 @@
 - 👍 I'm good at Frontend (React,Next,JS,CSS,HTML)
 - 👍 also I like 🦀Rust
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: plz contact in discord "nomalscarecrow"
+- 📫 How to reach me: plz contact in discord "theweirdofoz"
 
 <!---
 HideakiShirozu/HideakiShirozu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
