@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HideakiShirozu
 - 👀 I’m interested in React/Nextjs
-- 🌱 I’m currently learning 🍇Preact
-- 👍 I'm good at Frontend (React,Next,JS,CSS,HTML)
-- 👍 also I like 🦀Rust
+- 🌱 I’m currently learning ✨User Experience
+- 👍 I'm good at Frontend: 🍇Preact and⚡Vite
+- 👍 also I'm good at 🦀Rust
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: plz contact in discord "theweirdofoz"
+- 📫 contact in discord "@theweirdofoz" or Instagram "@weird0.oz" to reach me
 
 <!---
 HideakiShirozu/HideakiShirozu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
